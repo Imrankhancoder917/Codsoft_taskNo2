@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movie Rating Prediction
 
 This project aims to predict movie ratings based on various features such as genre, director, actors, and other relevant attributes. The project uses machine learning techniques to analyze historical movie data and develop a model that can accurately estimate movie ratings.
@@ -50,3 +51,6 @@ jupyter notebook
 - Mean Absolute Error (MAE)
 - Root Mean Squared Error (RMSE)
 - R-squared (R²)
+=======
+# Codsoft_taskNo2
+>>>>>>> 0198d535121c40bd9c4f0ebcf733ae645903c46d
